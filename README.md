@@ -22,3 +22,27 @@ Nest Net is a PHP-based building management system designed to streamline the ma
 1. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/TENSAEA/nest-net-building-management-system.git
+
+## Installation
+
+1. Create a new database and import the `sql` file
+2. Configure the database settings in the `config.php` file
+3. Upload the project files to your web server
+4. Access the system through a web browser at `http://yourdomain.com/nest-net-bms`
+
+## Usage
+
+1. Log in to the system using the default administrator credentials:
+   - Username: `admin`
+   - Password: `password`
+2. Create new user accounts and assign roles and permissions as needed
+3. Add building information and maintenance requests as needed
+4. Generate reports on building usage and maintenance requests
+
+## Contributing
+
+Contributions to this project are welcome. Please submit pull requests to the `master` branch.
+
+## Acknowledgments
+
+This project was developed by Tensae Aschalew as part of the Right Tech team.
