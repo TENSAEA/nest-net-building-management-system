@@ -1,0 +1,14 @@
+[07-Oct-2024 01:22:28 UTC] PHP Warning:  Undefined variable $connect in C:\wamp64\www\New\Building\html\dashboard\Report\generate_report.php on line 67
+[07-Oct-2024 01:22:28 UTC] PHP Stack trace:
+[07-Oct-2024 01:22:28 UTC] PHP   1. {main}() C:\wamp64\www\New\Building\html\dashboard\Report\generate_report.php:0
+[07-Oct-2024 01:22:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\wamp64\www\New\Building\html\dashboard\Report\generate_report.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\New\Building\html\dashboard\Report\generate_report.php on line 67
+[07-Oct-2024 01:22:50 UTC] PHP Warning:  Undefined variable $connect in C:\wamp64\www\New\Building\html\dashboard\Report\generate_report.php on line 67
+[07-Oct-2024 01:22:50 UTC] PHP Stack trace:
+[07-Oct-2024 01:22:50 UTC] PHP   1. {main}() C:\wamp64\www\New\Building\html\dashboard\Report\generate_report.php:0
+[07-Oct-2024 01:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\wamp64\www\New\Building\html\dashboard\Report\generate_report.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\New\Building\html\dashboard\Report\generate_report.php on line 67

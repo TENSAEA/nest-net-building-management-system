@@ -1,0 +1,5 @@
+[28-Sep-2024 08:00:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'contract_date_in_ethiopian_calendar' in 'field list' in C:\wamp64\www\Building\html\dashboard\app\add_tenant.php:78
+Stack trace:
+#0 C:\wamp64\www\Building\html\dashboard\app\add_tenant.php(78): mysqli->prepare('INSERT INTO ten...')
+#1 {main}
+  thrown in C:\wamp64\www\Building\html\dashboard\app\add_tenant.php on line 78
