@@ -3,10 +3,6 @@
 ![building mangaement system](https://github.com/user-attachments/assets/24886144-7e8e-4d00-b7d7-d356515b88a3)
 
 
-
-Here is the reformatted text with a typing animation, collapsible sections, and colorful badges:
-
-```markdown
 <div align="center">
   <h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=435&lines=Overview;Features;Requirements" alt="Typing SVG" />
@@ -47,7 +43,6 @@ Here is the reformatted text with a typing animation, collapsible sections, and 
   - Apache 2.4 or higher
 </p>
 </details>
-```
 
 ## Installation
 
